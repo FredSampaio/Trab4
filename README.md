@@ -7,7 +7,7 @@ Trabalho 4 - Supermercado Online
   javac -cp dependencies/\* -d . *.java
 
 →Para executar:
-   make run
+  make run
    ou
    java -cp ":dependencies/mail.jar:dependencies/activation.jar:dependencies/itextpdf-5.5.6.jar" br.usp.icmc.supermercado.Main
 
