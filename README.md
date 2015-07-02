@@ -14,7 +14,7 @@ Trabalho 4 - Supermercado Online
 Obs: O programa é melhor vizualizado em tela maximizada.(Opcional)
 
 → Pontos extras:
-  -Relatorios diario e mensal em PDF: iText
-  -Envio de e-mails: JavaMail API
-  -Design pattern: Observer (class Requisitado). 
-	Descrição: todos os clientes que desejam um produto que não esta mais disponivel(fora de 	estoque ou vencido), são alertados quando este produto é atualizado no sistema.
+  1-Relatorios diario e mensal em PDF: iText
+  ----2-Envio de e-mails: JavaMail API
+  ----3-Design pattern: Observer (class Requisitado). 
+	Descrição do Observer: todos os clientes que desejam um produto que não esta mais disponivel(fora de estoque ou vencido), são alertados quando este produto é atualizado no sistema.
